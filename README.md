@@ -47,8 +47,7 @@ FFmpeg installed and added to PATH
 📦 Installation & Setup
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/himanshu7714/youtube-playlist-downloader
 
 2️⃣ Install required Python library
 pip install yt-dlp
